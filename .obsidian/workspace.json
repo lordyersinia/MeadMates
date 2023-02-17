@@ -166,6 +166,45 @@
               "type": "mathpad-view",
               "state": {}
             }
+          },
+          {
+            "id": "67974b828390980c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Materials/Carboy - Fermtech.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b862483463b0718",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Materials/Carboy - Fermtech.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15aa8a5280663884",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Materials/Carboy - Fermtech.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -186,7 +225,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "850f1d0a954bcbbd",
+  "active": "338d5506ce24d13a",
   "lastOpenFiles": [
     "Materials/Auto Siphon - Fermtech.md",
     "Materials/_Inventory.md",
