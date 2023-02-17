@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "3b5ae4f5bfd2fc51",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e269b8fa38999c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b825a20132da47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materials/Carboy - Fermtech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa20edbc47ed4567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materials/Honey - Glory Bee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ce0cb94e3f69d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materials/_Inventory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeee4babf169df28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materials/Auto Siphon - Fermtech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bf85981741981d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materials/Hydrometer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "831580974de5854a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materials/Yeast - Lalvin QA23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2adeeaf72e2d2afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f11168a5fdbfb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "850f1d0a954bcbbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30f59dae85cbec5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bba90cca12178712",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbef1157e9d6fe2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3f677528f488c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b64dbb2b8ad8039",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a07b060272db24d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "338d5506ce24d13a",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mathpad:Open Mathpad": false
+    }
+  },
+  "active": "850f1d0a954bcbbd",
+  "lastOpenFiles": [
+    "Materials/Auto Siphon - Fermtech.md",
+    "Materials/_Inventory.md",
+    "Materials/Hydrometer.md",
+    "Materials/Yeast - Lalvin QA23.md",
+    "Materials/Honey - Glory Bee.md",
+    "Materials/Carboy - Fermtech.md"
+  ]
+}
