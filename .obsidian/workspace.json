@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6b825a20132da47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Carboy - Fermtech.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa20edbc47ed4567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Honey - Glory Bee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ce0cb94e3f69d34",
             "type": "leaf",
             "state": {
@@ -42,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aeee4babf169df28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Auto Siphon - Fermtech.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bf85981741981d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Hydrometer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "831580974de5854a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Yeast - Lalvin QA23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,62 +91,15 @@
             }
           },
           {
-            "id": "3a07b060272db24d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "338d5506ce24d13a",
             "type": "leaf",
             "state": {
               "type": "mathpad-view",
               "state": {}
             }
-          },
-          {
-            "id": "67974b828390980c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Materials/Carboy - Fermtech.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5b862483463b0718",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Materials/Carboy - Fermtech.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "15aa8a5280663884",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Materials/Carboy - Fermtech.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,11 +119,15 @@
   },
   "active": "338d5506ce24d13a",
   "lastOpenFiles": [
-    "Materials/Auto Siphon - Fermtech.md",
+    "Materials/Funnel w Strainer.md",
     "Materials/_Inventory.md",
+    "Materials/Star San.md",
+    "Materials/Potassium Metabisulfite.md",
+    "Materials/Potassium Sorbate.md",
+    "Materials/Go-Ferm.md",
+    "Materials/Carboy - Fermtech.md",
+    "Materials/Auto Siphon - Fermtech.md",
     "Materials/Hydrometer.md",
-    "Materials/Yeast - Lalvin QA23.md",
-    "Materials/Honey - Glory Bee.md",
-    "Materials/Carboy - Fermtech.md"
+    "Materials/Yeast - Lalvin QA23.md"
   ]
 }
