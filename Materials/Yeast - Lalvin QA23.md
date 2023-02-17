@@ -1,6 +1,7 @@
 Lalvin QA23 Wine Yeast (10 Pack) - Make Wine Cider Mead Kombucha At Home - 5 g Sachets - Saccharomyces cerevisiae - Sold by CAPYBARA Distributors Inc.
 
 {source} :https://www.amazon.com/dp/B0BG3KNPYQ?psc=1&ref=ppx_yo2ov_dt_b_product_details
+{TDS}: [[TDS_Lalvin-QA23.pdf]]
 
 -   INCLUDES: 10 packs (5 g sachets) of Lalvin QA 23 wine yeast.
 -   INOCULATION RATE: 5g Sachet Makes 4.5L-23L

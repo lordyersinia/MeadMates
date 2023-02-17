@@ -1,6 +1,8 @@
 North Mountain Supply Campden Tablets (Potassium Metabisulfite) - 250 Tablets - 5 Ounce Jar
 
 {source} :https://www.amazon.com/gp/product/B0856PW8RN/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+{SDS}: [[potassium_metabisulfite_sds.pdf]]
+
 
 -   Campden Tablets (Potassium Metabisulfite) - Approximately 250 Tablets - 5 Ounce Jar
 -   Packaged in a plastic jar with a tamper evident air tight seal to ensure quality and freshness!

@@ -1,6 +1,7 @@
 Go-Ferm Yeast Rehydration Nutrient - 2 oz (56.7 g) - Make Wine Cider Mead Kombucha At Home - Sold by CAPYBARA Distributors Inc.
 
 {source} :https://www.amazon.com/gp/product/B0BQ5X8M4B/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+{TDS}: [[TDS_GoFerm.pdf]]
 
 -   INCLUDES: 1 pack (2 oz / 56.7 g) of Go-Ferm Yeast Rehydration Nutrient
 -   Go-Ferm provides bioavailable micronutrients in the non-stressful environment of the yeast rehydration water, instead of the traditional method of adding micronutrients to the must. During rehydration, the yeast acts like a sponge, soaking up Go-Ferm’s bioavailable nutrients. It is a 100% yeast product, produced through a specific autolysing process on yeast biomass to obtain high levels of certain essential vitamins and minerals such as magnesium and zinc.
