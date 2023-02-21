@@ -1,4 +1,9 @@
 {
   "attachmentFolderPath": "Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Templates/",
+    "Attachments/",
+    "Calculations/"
+  ]
 }
