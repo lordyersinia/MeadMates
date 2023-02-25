@@ -13,3 +13,5 @@ if yeast ratio is:
 then nutrient ratio is:
 
 	30 g/hL = .30 g/L  (1.137 g/gal)
+
+
