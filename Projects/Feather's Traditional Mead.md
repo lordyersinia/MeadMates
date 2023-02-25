@@ -26,8 +26,13 @@ Day 1
 	9. [[Yeast - Lalvin QA23]] 
 	10. spoon for mixing
 3. Fill a spray bottle with the sanitation solution
-4. <>
-5. <>
+4. [[Yeast Rehydration with Nutrients]]
+	1. yeast innoculation rate (0.2-0.4 g/L), per [[Yeast to Nutrient Ratio]], nutrient rate is 0.3 g/L. 
+	2. prepare 50mL of tap water at 35-37 C 
+	3. add 0.9475 g/gal of yeast
+	4. add 1.137 g/gal of nutrients
+	5. stir and rehydrate for 20min
+5. Prepare the Must
 6. <>
 7. <>
 8. <>

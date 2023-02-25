@@ -15,3 +15,7 @@
 
 
 # Inventory History:
+- to get:
+	- water for fermenting
+	- carboy to rack into
+	- corks for the wine bottles
