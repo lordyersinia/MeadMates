@@ -20,8 +20,6 @@ This traditional mead will use [[Yeast - Lalvin QA23|Lalvin QA23]] to ferment [[
 
 I expect fermentation to occur vigourosly and for longer due to the aditional nutrients added during rehydration. The excess honey should leave the mead sweat without having to back sweeten. I need to be careful not to let the ABV get too high since the yeast has a potential tollerance of 16% ABV. The [[Potassium Sorbate]] and [[Potassium Metabisulfite]] should ensure no additional fermentation. The cold crash will reduce SS when racking for aging. 
 # Procedure
-Day 1
-	Gather Materials, Sanitation, Creating Must, Pitching Yeast. 
 1. Prepare sanitizing solution per [[Sanitation]] in the kitchen sink.
 2. Gather all materials needed for rehydrating the yeast and preparing the Must. 
 	1. [[Carboy - Fermtech]]
