@@ -2,10 +2,19 @@
 # MetaData
 {Author}: Lord Yersinia
 {Created}: 2023-02-16 20:41
-{Updated}: 
+{Updated}: 2023-02-25 00:04, 
 {Tags}: #mead #traditional #QA23 
 # Equipment & Materials
-
+[[Carboy - Fermtech]]
+[[Honey - Glory Bee]]
+[[Yeast - Lalvin QA23]]
+[[Hydrometer]]
+[[Auto Siphon - Fermtech]]
+[[Funnel w Strainer]]
+[[Star San]]
+[[Potassium Metabisulfite]]
+[[Potassium Sorbate]]
+[[Go-Ferm]] 
 # Introduction, Purpose, Hypothesis
 This traditional mead will use [[Yeast - Lalvin QA23|Lalvin QA23]] to ferment [[Honey - Glory Bee|Glory Bee Honey]] in a 1 gallon [[Carboy - Fermtech|Carboy]]. The yeast will be rehydrated with [[Go-Ferm]] nutrients before fermentation to ensure the must reaches the desired ABV (determined by SG reading ~ 1.100 with [[Hydrometer]]. I will aim for an ABV of 13%. This method will use 5lbs of honey which should be more than enough to reach the desired ABV with residual honey in the must. Two methods of stabilizing and preserving will be usesd after fermentation. [[Potassium Sorbate]] and [[Potassium Metabisulfite]] will be added to inhibit yeast activity. The yeast will be cold crashed out of solution, then racked in a separate [[Carboy - Fermtech|Carboy]] for aging. 
 
@@ -32,7 +41,9 @@ Day 1
 	3. add 0.9475 g/gal of yeast
 	4. add 1.137 g/gal of nutrients
 	5. stir and rehydrate for 20min
-5. Prepare the Must
+5. Prepare the Must:
+	1.   d
+	2.  dsa 
 6. <>
 7. <>
 8. <>

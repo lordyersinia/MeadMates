@@ -19,3 +19,4 @@
 	- water for fermenting
 	- carboy to rack into
 	- corks for the wine bottles
+	- scale (might use one at work)
