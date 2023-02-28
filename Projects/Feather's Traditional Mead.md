@@ -2,7 +2,8 @@
 # MetaData
 {Author}: Lord Yersinia
 {Created}: 2023-02-16 20:41
-{Updated}: 2023-02-25 00:04, 
+{Updated}: 2023-02-25 00:04, 2023-02-27 20:50
+{{Started}}: 2023-02-26  19:04
 {Tags}: #mead #traditional #QA23 
 # Equipment & Materials
 [[Carboy - Fermtech]]
