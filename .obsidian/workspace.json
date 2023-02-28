@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT calculation of dilution.md",
+                "file": "Calculations/ChatGPT calculation of dilution.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,11 +222,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "4a47a085eb7fa452",
+  "active": "850f1d0a954bcbbd",
   "lastOpenFiles": [
-    "ChatGPT calculation of dilution.md",
-    "Projects/Feather's Traditional Mead.md",
     "Materials/_Inventory.md",
+    "Projects/Feather's Traditional Mead.md",
+    "Calculations/ChatGPT calculation of dilution.md",
     "Calculations/Calculate ABV from SG.md",
     "Methods/Yeast Rehydration.md",
     "Materials/SDS-TDS/TDS_Lalvin-QA23.pdf",
