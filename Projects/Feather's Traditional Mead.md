@@ -93,3 +93,6 @@ used ~ 100mL of water to disolve the nutrients before adding the yeast. started 
 Checked the carboy in the morning before work and there were bubbles passing through the air lock at a rate of ~ 1 bubble per 3 seconds. At lunch I removed the air lock and degassed the carboy for no more than 10min. A good amount of gas was released and nothing spilled over. Gas seemes to be steadily released from the air lock. The color of the must had become more turbid. The second degas of the day released more than the first today. 
 
 I feel like that was a lot of gas released so I will do a Sg reading tomorrow. 
+
+## Day 2
+Degassed at 12:13 until there was no more pressure after shaking. I will wait to take another SG reading until Day 7. 
