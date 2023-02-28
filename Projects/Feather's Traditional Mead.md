@@ -67,6 +67,22 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 
 | Day | pH  | SG  | Temperature |
 | --- | --- | --- | ----------- |
-|     |     |     |             |
+|   0  | 4    |  1.1   |     22        |
 
+## Day 0
+Went to the lab to weigh nutrients. 6.2486g Used 11.8ml [[Star San]] solution used to 2 gallons of tap water to make sanitation solution. Sterilized hydrometer, airlocks, carboys, and funnel. Filled a spray bottle with sanitation solution for later use. Place the honey in a warm water bath before making the Must. Rinsed carboy of suds from sanitation solution with 900mL Spring water. Used funnel to trasnfer honey to carboy. 
 
+SP was way too high. Diluting down with water. I got 1.1. I will ferment to 0.98 to get 15.9% ABV. 
+	2/3 honey 1.06 SG 5.3% ABV
+	1/3 honey 1.02 SG 10.6% ABV
+
+pH of must was 4
+
+used ~ 100mL of water to disolve the nutrients before adding the yeast. started rehydration with 37 C water for 20min. Mixed intermitently through the 20min duration. Added some of the must to the rehydration container. I poured the yeast into the must when the temp of the yeast was at 25.7 C. The temp of the must was 22 C. 
+
+19:04 fermentation start
+
+## Day 1
+Checked the carboy in the morning before work and there were bubbles passing through the air lock at a rate of ~ 1 bubble per 3 seconds. At lunch I removed the air lock and degassed the carboy for no more than 10min. A good amount of gas was released and nothing spilled over. Gas seemes to be steadily released from the air lock. The color of the must had become more turbid. The second degas of the day released more than the first today. 
+
+I feel like that was a lot of gas released so I will do a Sg reading tomorrow. 

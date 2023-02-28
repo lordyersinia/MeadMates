@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Potassium Sorbate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11fc7a3e9a124e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methods/Yeast Rehydration with Nutrients.md",
+                "file": "Projects/Feather's Traditional Mead.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Feather's Traditional Mead.md",
+                "file": "Methods/Yeast Rehydration with Nutrients.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +35,19 @@
             "id": "16ffd9400cad502c",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Materials/SDS-TDS/TDS_Lalvin-QA23.pdf"
+              }
+            }
+          },
+          {
+            "id": "30ce1f1e0224731c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculations/Yeast to Nutrient Ratio.md",
+                "file": "Calculations/Calculate ABV from SG.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,22 +210,22 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "e5134f89ea361fb2",
+  "active": "4a47a085eb7fa452",
   "lastOpenFiles": [
+    "Materials/_Inventory.md",
+    "Projects/Feather's Traditional Mead.md",
+    "Calculations/Calculate ABV from SG.md",
+    "Methods/Yeast Rehydration.md",
+    "Materials/SDS-TDS/TDS_Lalvin-QA23.pdf",
+    "Methods/Yeast Rehydration with Nutrients.md",
+    "Methods/Sanitation.md",
+    "Calculations/Yeast to Nutrient Ratio.md",
     "Materials/Potassium Sorbate.md",
     "Materials/Potassium Metabisulfite.md",
-    "Projects/Feather's Traditional Mead.md",
     "Materials/SDS-TDS/potassium_metabisulfite_sds.pdf",
-    "Materials/SDS-TDS/TDS_Lalvin-QA23.pdf",
-    "Calculations/Yeast to Nutrient Ratio.md",
-    "Materials/_Inventory.md",
-    "Calculations/Calculate ABV from SG.md",
     "Materials/Yeast - Lalvin QA23.md",
     "Materials/SDS-TDS/TDS_GoFerm.pdf",
-    "Methods/Yeast Rehydration with Nutrients.md",
     "Materials/Go-Ferm.md",
-    "Methods/Sanitation.md",
-    "Methods/Yeast Rehydration.md",
     "Templates/New Project Template.md",
     "Materials/Carboy - Fermtech.md",
     "Materials/Star San.md",

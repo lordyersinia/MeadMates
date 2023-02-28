@@ -13,7 +13,6 @@
 |         [[Go-Ferm]]         |   2oz/bag   |   1    | 7.99  |
 
 
-
 # Inventory History:
 - to get:
 	- water for fermenting
