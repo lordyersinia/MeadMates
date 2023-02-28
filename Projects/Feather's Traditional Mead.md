@@ -72,7 +72,13 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 ## Day 0
 Went to the lab to weigh nutrients. 6.2486g Used 11.8ml [[Star San]] solution used to 2 gallons of tap water to make sanitation solution. Sterilized hydrometer, airlocks, carboys, and funnel. Filled a spray bottle with sanitation solution for later use. Place the honey in a warm water bath before making the Must. Rinsed carboy of suds from sanitation solution with 900mL Spring water. Used funnel to trasnfer honey to carboy. 
 
-SP was way too high. Diluting down with water. I got 1.1. I will ferment to 0.98 to get 15.9% ABV. 
+SP was way too high. Diluting down with water. 
+
+[[ChatGPT calculation of dilution]] 
+	final dilution is approximately 23.55561%.
+	Therefore, the final concentration of honey in grams per liter is approximately 329.78 g/L  or 2.748 lb/gal (US)
+
+I got 1.1. I will ferment to 0.98 to get 15.9% ABV. 
 	2/3 honey 1.06 SG 5.3% ABV
 	1/3 honey 1.02 SG 10.6% ABV
 
