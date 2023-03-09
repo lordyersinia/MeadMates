@@ -45,13 +45,13 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 	1. Dissolve honey in small amount of water (leave room to add additional water to reach batch volume).
 	2. Add water to your batch volume minus volume for rehydration
 	3. Aerate the must with a drill stirrer or shake/stir vigorously for 15 minutes.
-6. Begin tempering yeast by adding 63mL must to the yeast slurry every 5 minutes.
+6. Begin tempering yeast by adding 50mL must to the yeast slurry every 5 minutes.
 7. When yeast slurry temperature is within 10 deg F of must temperature, pitch yeast into fermenter.
 8. Record specific gravity, pH and temperature for future reference.
 	1. Calculate what SG for 8%, 10%, and 14% ABV
 9. Apply airlock. Ferment per [[TDS_Lalvin-QA23.pdf]] between 14 - 28 C in a dark room. 
 10. Degas twice per day for first week of fermentation. Degas once per day for the second week. Degas every other day the third week. 
-11. Record pH, SG, and temperature every 2 days.
+11. Record pH, SG, and temperature every at day 7, 10, and 14 days.
 12. Stop fermenting when:
 	1. SG remains constant for > 1 week
 	2. Gas formation stops
@@ -68,7 +68,10 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 
 | Day | pH  | SG  | Temperature |
 | --- | --- | --- | ----------- |
-|   0  | 4    |  1.1   |     22        |
+| 0   | 4   | 1.1 | 22          |
+| 7   | 3    |1.024|   20.7 |
+| 10  |     | 1.008|       20.1 |
+| 14  |     |     |             |
 
 ## Day 0
 Went to the lab to weigh nutrients. 6.2486g Used 11.8ml [[Star San]] solution used to 2 gallons of tap water to make sanitation solution. Sterilized hydrometer, airlocks, carboys, and funnel. Filled a spray bottle with sanitation solution for later use. Place the honey in a warm water bath before making the Must. Rinsed carboy of suds from sanitation solution with 900mL Spring water. Used funnel to trasnfer honey to carboy. 
@@ -90,9 +93,42 @@ used ~ 100mL of water to disolve the nutrients before adding the yeast. started 
 19:04 fermentation start
 
 ## Day 1
-Checked the carboy in the morning before work and there were bubbles passing through the air lock at a rate of ~ 1 bubble per 3 seconds. At lunch I removed the air lock and degassed the carboy for no more than 10min. A good amount of gas was released and nothing spilled over. Gas seemes to be steadily released from the air lock. The color of the must had become more turbid. The second degas of the day released more than the first today. 
+Checked the carboy in the morning before work and there were bubbles passing through the air lock at a rate of ~ 1 bubble per 3 seconds. At lunch I removed the air lock and degassed the carboy for no more than 10min. A good amount of gas was released and nothing spilled over. Gas seemes to be steadily released from the air lock. The color of the must had become more turbid. The second degas of the day released more than the first. 
 
-I feel like that was a lot of gas released so I will do a Sg reading tomorrow. 
+I feel like that was a lot of gas released so I will do a SG reading tomorrow. 
 
 ## Day 2
-Degassed at 12:13 until there was no more pressure after shaking. I will wait to take another SG reading until Day 7. 
+Degassed at 12:13 until there was no more pressure after shaking. The amount of gas released felt about the same as yesterday. I will wait to take another SG reading until Day 7. Per [[TDS_GoFerm.pdf]] i think we passed the peak CO2 production. Should expect less CO2 when degassing tomorrow. Second degass at 22:43. 
+
+## Day 3
+Degassed at lunch 12:21. No significant changes. I feel like there was less CO2 produced this time. It is starting to smell more acidic. Second degass today at 23:25
+
+## Day 4
+12:30 degassed at lunch. I have noticed a small white biomass as I shake the container. I will monitor it. If it gets big enough I will attempt to remove it from the carboy. 23:12 degassed. The smell is getting more like wine.
+
+## Day 5
+12:32 degassed at lunch. The white biomass is getting more distinct. It is no larger than a dime at the moment. Forgot to degass at night. 
+
+## Day 6
+I will begin degassing once a day. Partly due to time constraints. 17:17 degassed.
+
+## Day 7
+Degassed at 22:40 
+SG 1.024      ~ 10.1% ABV
+This is the 1/3 sugar level, so much longer after this point will produce a more dry mead. 
+pH 3
+Temp  20.7 C
+I did a taste test and it is drinkable! I think I should let it ferment a few more days, then I will start to stablize and preserve the Mead. 
+
+## Day 8
+Let rest today.
+
+## Day 9 
+Gentle swirling to release gas 20:42
+
+## Day 10
+Mix and take another reading of SG. 
+SG 1.008   ~12.2% ABV
+pH 3
+Began Stabilization with 1 Campden Tablet and half a teaspoon of potassium sorbate to the carboy. Mixed, then placed in the fridge to cold crash. 18:57 
+

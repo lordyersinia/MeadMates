@@ -15,7 +15,8 @@
 
 # Inventory History:
 - to get:
-	- water for fermenting
-	- carboy to rack into
-	- corks for the wine bottles
-	- scale (might use one at work)
+	- carboy to rack into (ordered)
+	- corks for the wine bottles (ordered with corker)
+
+- to log
+	- Water for must
