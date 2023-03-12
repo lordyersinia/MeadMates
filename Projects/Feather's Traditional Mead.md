@@ -130,5 +130,10 @@ Gentle swirling to release gas 20:42
 Mix and take another reading of SG. 
 SG 1.008   ~12.2% ABV
 pH 3
-Began Stabilization with 1 Campden Tablet and half a teaspoon of potassium sorbate to the carboy. Mixed, then placed in the fridge to cold crash. 18:57 
+Began Stabilization with 1 Campden Tablet and half a teaspoon of potassium sorbate to the carboy. Mixed, then placed in the fridge to cold crash. 18:57
 
+## Day 11
+No bubbles noticed from the air lock. About 1.5 cm of sediment at the bottom of the carboy. Not shaken/stirred today. I have ordered corks, a corker and another carboy for racking.
+
+## Day 14
+1.8 cm of sediment. The mead is clearing up more than the days before. 

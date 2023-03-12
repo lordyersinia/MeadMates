@@ -11,12 +11,13 @@
 | [[Potassium Metabisulfite]] | 250/bottle  |   1    | 13.49 |
 |    [[Potassium Sorbate]]    |   2oz/jar   |   1    | 6.99  |
 |         [[Go-Ferm]]         |   2oz/bag   |   1    | 7.99  |
+|         [[Corker]]          |   corker    |   1    | 20.37 |
+| [[Corker]]  (corks)             |     cork    |   20   |  ''     |
 
 
 # Inventory History:
 - to get:
-	- carboy to rack into (ordered)
-	- corks for the wine bottles (ordered with corker)
+	- 
 
-- to log
-	- Water for must
+- to log:
+	- Water used for must (didnt get intital pH of water)
