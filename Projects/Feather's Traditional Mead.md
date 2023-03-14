@@ -38,8 +38,8 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 	1. yeast innoculation rate (0.2-0.4 g/L), per [[Yeast to Nutrient Ratio]], nutrient rate is between 0.25 - 0.5 g/L. 
 	2. prepare 50mL of tap water at 35-37 C 
 	3. add 1 packet of [[Yeast - Lalvin QA23]] 
-		1. 5 g yeast X 1.25 = 6.25 g nutrients
-	4. add 6.25 g/gal of nutrients
+		 A. 5 g yeast X 1.25 = 6.25 g nutrients
+	4. add 6.25 g/gal of [[Go-Ferm]]
 	5. stir and rehydrate for 20min
 5. Prepare the Must:
 	1. Dissolve honey in small amount of water (leave room to add additional water to reach batch volume).
@@ -53,8 +53,8 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 10. Degas twice per day for first week of fermentation. Degas once per day for the second week. Degas every other day the third week. 
 11. Record pH, SG, and temperature every at day 7, 10, and 14 days.
 12. Stop fermenting when:
-	1. SG remains constant for > 1 week
-	2. Gas formation stops
+	1. SG remains constant for > 1 week, or
+	2. Gas formation stops, or
 	3. SG reached for desired ABV
 13. Stabilize and Preserve:
 	1. Rack into clean carboy 
@@ -70,7 +70,7 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 | --- | --- | --- | ----------- |
 | 0   | 4   | 1.1 | 22          |
 | 7   | 3    |1.024|   20.7 |
-| 10  |     | 1.008|       20.1 |
+| 10  |  3   | 1.008|       20.1 |
 | 14  |     |     |             |
 
 ## Day 0
@@ -139,8 +139,12 @@ No bubbles noticed from the air lock. About 1.5 cm of sediment at the bottom of 
 1.8 cm of sediment. The mead is clearing up more than the days before. 
 
 ## Day 16
+<<<<<<< HEAD
 Sanitize carboy for racking, siphon, funnel with filter, 4 wine bottles and refill the spray bottle. 
 
 Take a SG after racking, taste and decide on adding more honey. 
 	if added more honey, take another SG
 
+=======
+I have new glass gallon jugs to rack into. I will taste and add honey to the new container. Then bottle into wine bottles. 
+>>>>>>> 2bd35ad7576a614ac15303b805def1dd6d19be1e
