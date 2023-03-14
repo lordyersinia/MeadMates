@@ -3,6 +3,7 @@
 {Author}: Lord Yersinia
 {Created}: 2023-02-16 20:41
 {Updated}: 2023-02-25 00:04, 
+{Fermentation Start}:
 {Tags}: #mead #traditional #QA23 
 # Equipment & Materials
 [[Carboy - Fermtech]]
@@ -37,8 +38,8 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 	1. yeast innoculation rate (0.2-0.4 g/L), per [[Yeast to Nutrient Ratio]], nutrient rate is between 0.25 - 0.5 g/L. 
 	2. prepare 50mL of tap water at 35-37 C 
 	3. add 1 packet of [[Yeast - Lalvin QA23]] 
-		1. 5 g yeast X 1.25 = 6.25 g nutrients
-	4. add 6.25 g/gal of nutrients
+		 A. 5 g yeast X 1.25 = 6.25 g nutrients
+	4. add 6.25 g/gal of [[Go-Ferm]]
 	5. stir and rehydrate for 20min
 5. Prepare the Must:
 	1. Dissolve honey in small amount of water (leave room to add additional water to reach batch volume).
@@ -52,8 +53,8 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 10. Degas twice per day for first week of fermentation. Degas once per day for the second week. Degas every other day the third week. 
 11. Record pH, SG, and temperature every 2 days.
 12. Stop fermenting when:
-	1. SG remains constant for > 1 week
-	2. Gas formation stops
+	1. SG remains constant for > 1 week, or
+	2. Gas formation stops, or
 	3. SG reached for desired ABV
 13. Stabilize and Preserve:
 	1. Rack into clean carboy 

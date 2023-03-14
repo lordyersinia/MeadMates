@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a47a085eb7fa452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Potassium Sorbate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11fc7a3e9a124e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methods/Yeast Rehydration with Nutrients.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5134f89ea361fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Projects/Feather's Traditional Mead.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16ffd9400cad502c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculations/Yeast to Nutrient Ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,15 +176,15 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "e5134f89ea361fb2",
+  "active": "338d5506ce24d13a",
   "lastOpenFiles": [
+    "Materials/_Inventory.md",
     "Materials/Potassium Sorbate.md",
     "Materials/Potassium Metabisulfite.md",
     "Projects/Feather's Traditional Mead.md",
     "Materials/SDS-TDS/potassium_metabisulfite_sds.pdf",
     "Materials/SDS-TDS/TDS_Lalvin-QA23.pdf",
     "Calculations/Yeast to Nutrient Ratio.md",
-    "Materials/_Inventory.md",
     "Calculations/Calculate ABV from SG.md",
     "Materials/Yeast - Lalvin QA23.md",
     "Materials/SDS-TDS/TDS_GoFerm.pdf",
