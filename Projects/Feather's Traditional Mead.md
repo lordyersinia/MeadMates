@@ -139,12 +139,9 @@ No bubbles noticed from the air lock. About 1.5 cm of sediment at the bottom of 
 1.8 cm of sediment. The mead is clearing up more than the days before. 
 
 ## Day 16
-<<<<<<< HEAD
+HEAD
 Sanitize carboy for racking, siphon, funnel with filter, 4 wine bottles and refill the spray bottle. 
 
 Take a SG after racking, taste and decide on adding more honey. 
 	if added more honey, take another SG
 
-=======
-I have new glass gallon jugs to rack into. I will taste and add honey to the new container. Then bottle into wine bottles. 
->>>>>>> 2bd35ad7576a614ac15303b805def1dd6d19be1e
