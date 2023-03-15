@@ -139,9 +139,18 @@ No bubbles noticed from the air lock. About 1.5 cm of sediment at the bottom of 
 1.8 cm of sediment. The mead is clearing up more than the days before. 
 
 ## Day 16
-HEAD
-Sanitize carboy for racking, siphon, funnel with filter, 4 wine bottles and refill the spray bottle. 
+Used ~10mL of Star San to 2 gallons of water to sterilize: 
+	carboy with airlock
+	funnel w strainer
+	hydrometer
+	siphon
+	4 wine bottles
 
-Take a SG after racking, taste and decide on adding more honey. 
-	if added more honey, take another SG
+Siphon from 1st fermentation carboy into new sterilized carboy. Avoid transfering sediment into the new carboy. Take SG reading and taste. 
 
+20:11
+
+1.01 SG ~ 12% ABV
+pH closer to 4
+
+racking cleared up the mead very well. I dont think i want to make it any sweeter, but I want a little more volume since i lost some during racking. I will monitor any further precipitation and will bottle into wine bottles within the next week. 
