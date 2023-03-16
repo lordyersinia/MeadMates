@@ -154,3 +154,9 @@ Siphon from 1st fermentation carboy into new sterilized carboy. Avoid transferin
 pH closer to 4
 
 racking cleared up the mead very well. I dont think i want to make it any sweeter, but I want a little more volume since i lost some during racking. I will monitor any further precipitation and will bottle into wine bottles within the next week. 
+
+## Day 17
+No precipitation
+
+## Day 18
+Small ring on bottom of carboy. Not covering the bottom. 
