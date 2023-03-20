@@ -160,3 +160,9 @@ No precipitation
 
 ## Day 18
 Small ring on bottom of carboy. Not covering the bottom. 
+
+## Day 19 
+2023-03-17 Bottled 4 wine bottled with about half a liter left over. I did not backsweeten and I was able to enjoy a bottle. 
+
+## Results/Thoughts 
+I will make more than one gallon next time. I liked the level of about 20% honey to one gallon mead. This will save on money for the next batch. The mead cleared up nicely and I have not noticed any sediment building up in the bottles. Corking was pretty easy. I think i got the right size corks. I pushed a couple of them in too far, but I was still able to remove the cork. I inverted a corked wine bottle a few times before opening and it didnt seem like pressure was building up. I will keep them in the fridge just in case. 
