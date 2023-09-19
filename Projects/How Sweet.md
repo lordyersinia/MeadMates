@@ -1,10 +1,23 @@
-# MetaData
-{Author}:
-{Created}: 
-{Updated}:
-{Tags}:
+---
+Author: Lord Yersinia
+Created: 2023-09-06 19:25
+Started: 
+tags:
+  - mead
+Finished: 
+Final Volume:
+---
 # Equipment & Materials
-
+[[Carboy - Fermtech]]
+[[Carboy - North Mountain]]
+[[Yeast - Lalvin QA23]]
+[[Hydrometer]]
+[[Auto Siphon - Fermtech]]
+[[Funnel w Strainer]]
+[[Star San]]
+[[Potassium Metabisulfite]]
+[[Potassium Sorbate]]
+[[Go-Ferm]] 
 # Introduction, Purpose, Hypothesis
 
 # Procedure

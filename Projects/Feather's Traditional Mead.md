@@ -1,10 +1,14 @@
+---
+Author: Lord Yersinia
+Created: 2023-02-16 20:41
+Started: 2023-02-26  19:04
+tags:
+  - mead
+  - QA23
+Finished: 2023-03-12
+Final Volume: ~4 wine bottles (250ml each)
+---
 
-# MetaData
-{Author}: Lord Yersinia
-{Created}: 2023-02-16 20:41
-{Updated}: 2023-02-25 00:04, 2023-02-27 20:50
-{{Started}}: 2023-02-26  19:04
-{Tags}: #mead #traditional #QA23 
 # Equipment & Materials
 [[Carboy - Fermtech]]
 [[Honey - Glory Bee]]
@@ -71,7 +75,7 @@ I expect fermentation to occur vigourosly and for longer due to the aditional nu
 | 0   | 4   | 1.1 | 22          |
 | 7   | 3    |1.024|   20.7 |
 | 10  |  3   | 1.008|       20.1 |
-| 14  |     |     |             |
+| 14  |  4   |  1.01   |             |
 
 ## Day 0
 Went to the lab to weigh nutrients. 6.2486g Used 11.8ml [[Star San]] solution used to 2 gallons of tap water to make sanitation solution. Sterilized hydrometer, airlocks, carboys, and funnel. Filled a spray bottle with sanitation solution for later use. Place the honey in a warm water bath before making the Must. Rinsed carboy of suds from sanitation solution with 900mL Spring water. Used funnel to trasnfer honey to carboy. 

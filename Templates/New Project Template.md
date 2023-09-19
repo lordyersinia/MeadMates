@@ -1,8 +1,12 @@
-# MetaData
-{Author}:
-{Created}: 
-{Updated}:
-{Tags}:
+---
+Author: 
+Created: 
+Started: 
+tags: []
+Finished: 
+Final Volume:
+---
+
 # Equipment & Materials
 
 # Introduction, Purpose, Hypothesis
