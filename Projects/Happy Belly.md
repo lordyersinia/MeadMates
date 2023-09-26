@@ -1,7 +1,7 @@
 ---
 Author: Lord Yersinia
 Created: 2023-09-06 19:25
-Started: 
+Started: 2023-09-25T19:00:00
 tags:
   - mead
 Finished: 

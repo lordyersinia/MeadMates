@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods/Yeast Rehydration with Nutrients.md",
+                "file": "Projects/Nature Nate's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods/Yeast Rehydration with Nutrients.md",
+                "file": "Projects/Nature Nate's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods/Yeast Rehydration with Nutrients.md"
+                "file": "Projects/Nature Nate's.md"
               }
             }
           },
@@ -256,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,7 +271,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "aa1055c5d4dc9c84",
+  "active": "552fef07b427ba61",
   "lastOpenFiles": [
     "Projects/Happy Belly.md",
     "Methods/Yeast Rehydration with Nutrients.md",
