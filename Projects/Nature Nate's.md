@@ -67,8 +67,10 @@ Final Volume:
 
 # Observations, Calculations & Results
 
-| Day | pH  | SG  | Temperature |
-| --- | --- | --- | ----------- |
-|     |     |     |             |
+| Day       | pH  | SG    | Temperature |
+| --------- | --- | ----- | ----------- |
+| 0 (water) | 6   |       | 22          |
+| 0 (must)  | 5   | 1.079 | 22.6            |
 
 
+stop at SG 1.000 to get 10.4 ABV
